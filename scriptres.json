@@ -1,0 +1,135 @@
+{
+    "type": "object",
+    "properties": {
+        "Root": {
+            "type": "string"
+        },
+        "Root/Purchase Order": {
+            "type": "string"
+        },
+        "Root/Parts": {
+            "type": "string"
+        },
+        "Root/Parts/Hardware": {
+            "type": "string"
+        },
+        "Root/Parts/Hardware/Ball Bearing": {
+            "type": "string"
+        },
+        "Root/Parts/Hardware/Eye Bolt": {
+            "type": "string"
+        },
+        "Root/Parts/Fasteners": {
+            "type": "string"
+        },
+        "Root/Parts/Fasteners/Bolts": {
+            "type": "string"
+        },
+        "Root/Parts/Fasteners/Bolts/Hex Bolt": {
+            "type": "string"
+        },
+        "Root/Parts/Fasteners/Bolts/Flange Hex Bolt": {
+            "type": "string"
+        },
+        "Root/Parts/Fasteners/Bolts/Banjo Bolt": {
+            "type": "string"
+        },
+        "Root/Parts/Motorcycle accessories": {
+            "type": "string"
+        },
+        "Root/Parts/Mechanical": {
+            "type": "string"
+        },
+        "Root/Parts/Mechanical/Motorcycle Engine": {
+            "type": "string"
+        },
+        "Root/Parts/Mechanical/Motorcycle Brakes": {
+            "type": "string"
+        },
+        "Root/Parts/Mechanical/Lights": {
+            "type": "string"
+        },
+        "Root/Parts/Mechanical/Mudguards": {
+            "type": "string"
+        },
+        "Root/Parts/Mechanical/Foot Pegs": {
+            "type": "string"
+        },
+        "Root/Parts/Mechanical/Chassis": {
+            "type": "string"
+        },
+        "Root/Parts/Mechanical/Motorcycle Transmissions": {
+            "type": "string"
+        },
+        "Root/Parts/Mechanical/Body Panels": {
+            "type": "string"
+        },
+        "Root/Parts/Mechanical/Final Drive": {
+            "type": "string"
+        },
+        "Root/Parts/Mechanical/Exhaust": {
+            "type": "string"
+        },
+        "Root/Parts/Mechanical/Wheels and Tires": {
+            "type": "string"
+        },
+        "Root/Parts/Mechanical/Handlebars": {
+            "type": "string"
+        },
+        "Root/Modules": {
+            "type": "string"
+        },
+        "Root/Vendor": {
+            "type": "string"
+        },
+        "Root/Testing": {
+            "type": "string"
+        },
+        "Root/Module Systems": {
+            "type": "string"
+        },
+        "Root/Module Sets": {
+            "type": "string"
+        },
+        "Root/qwerty": {
+            "type": "string"
+        },
+        "Root/Purchase Order Item": {
+            "type": "string"
+        }
+    },
+    "required": [
+        "Root",
+        "Root/Purchase Order",
+        "Root/Parts",
+        "Root/Parts/Hardware",
+        "Root/Parts/Hardware/Ball Bearing",
+        "Root/Parts/Hardware/Eye Bolt",
+        "Root/Parts/Fasteners",
+        "Root/Parts/Fasteners/Bolts",
+        "Root/Parts/Fasteners/Bolts/Hex Bolt",
+        "Root/Parts/Fasteners/Bolts/Flange Hex Bolt",
+        "Root/Parts/Fasteners/Bolts/Banjo Bolt",
+        "Root/Parts/Motorcycle accessories",
+        "Root/Parts/Mechanical",
+        "Root/Parts/Mechanical/Motorcycle Engine",
+        "Root/Parts/Mechanical/Motorcycle Brakes",
+        "Root/Parts/Mechanical/Lights",
+        "Root/Parts/Mechanical/Mudguards",
+        "Root/Parts/Mechanical/Foot Pegs",
+        "Root/Parts/Mechanical/Chassis",
+        "Root/Parts/Mechanical/Motorcycle Transmissions",
+        "Root/Parts/Mechanical/Body Panels",
+        "Root/Parts/Mechanical/Final Drive",
+        "Root/Parts/Mechanical/Exhaust",
+        "Root/Parts/Mechanical/Wheels and Tires",
+        "Root/Parts/Mechanical/Handlebars",
+        "Root/Modules",
+        "Root/Vendor",
+        "Root/Testing",
+        "Root/Module Systems",
+        "Root/Module Sets",
+        "Root/qwerty",
+        "Root/Purchase Order Item"
+    ]
+}
